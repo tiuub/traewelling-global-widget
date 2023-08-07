@@ -9,7 +9,10 @@
 - [Traewelling account](https://traewelling.de) (free)
 
 ## Installation
-[![Download with ScriptDude](https://scriptdu.de/download.svg)](https://scriptdu.de/?name=Traewelling+Global&source=https%3A%2F%2Fraw.githubusercontent.com%2Ftiuub%2Ftraewelling-global-widget%2Fmain%2Ftraewelling-global-widget.js&docs=https%3A%2F%2Fgithub.com%2Ftiuub%2Ftraewelling-global-widget)
+[![Download with ScriptDude](https://scriptdu.de/download.svg)](https://scriptdu.de/?name=Traewelling%20Global&source=https%3A%2F%2Fraw.githubusercontent.com%2Ftiuub%2Ftraewelling-global-widget%2Fmain%2Ftraewelling-global-widget.js&docs=https%3A%2F%2Fgithub.com%2Ftiuub%2Ftraewelling-global-widget)
+
+## Configuration
+Add a Scriptable widget to your homescreen, select the script and set your Traewelling username as parameter. 
 
 ## Features
 - Will show you your total distance, total duration spent in trains and your total points
